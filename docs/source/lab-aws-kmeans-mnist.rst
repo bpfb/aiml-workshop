@@ -33,7 +33,7 @@ Get AWS Example Notebook
 
    .. image:: img/sagemaker.examples.png
 
-#. In the section *SageMaker Python SDK* select the notebook "kmeans_mnist.ipynb"
+#. In the section *SageMaker Python SDK* select the notebook "kmeans_mnist.ipynb" and click "Use".  This will create a copy in your notebook instance.
    
    .. image:: img/sagemaker.kmeans_mnist.png
       
